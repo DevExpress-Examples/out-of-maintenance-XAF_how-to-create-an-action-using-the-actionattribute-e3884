@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Tests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Date="6/20/2013">
+  <Test Name="PostponeActionTest" ApplicationName="ActionAttributeExample.Win" Result="Passed" Elapsed="00:00:10.9468744" Started="6/20/2013 11:39:01 AM" MachineName="BELYAKOV-SV-N" IP="172.22.4.51" />
+  <Test Name="PostponeActionTest" ApplicationName="ActionAttributeExample.Web" Result="Passed" Elapsed="00:00:14.5188744" Started="6/20/2013 11:39:11 AM" MachineName="BELYAKOV-SV-N" IP="172.22.4.51" />
+</Tests>
