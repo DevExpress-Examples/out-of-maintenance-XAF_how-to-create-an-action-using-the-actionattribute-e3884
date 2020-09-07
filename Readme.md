@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to: Create an Action Using the ActionAttribute
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3884)**
+**[[Run Online]](https://codecentral.devexpress.com/e3884/)**
 <!-- run online end -->
 
 
