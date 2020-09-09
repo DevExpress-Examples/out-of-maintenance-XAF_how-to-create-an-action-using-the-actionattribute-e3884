@@ -1,4 +1,4 @@
-<%@ Page Language="vb" AutoEventWireup="true" Inherits="LoginPage" CodeBehind="Login.aspx.vb" %>
+<%@ Page Language="C#" AutoEventWireup="true" Inherits="LoginPage" CodeBehind="Login.aspx.cs" %>
 
 <%@ Register Assembly="DevExpress.ExpressApp.Web.v13.1" Namespace="DevExpress.ExpressApp.Web.Templates.ActionContainers"
     TagPrefix="cc2" %>
